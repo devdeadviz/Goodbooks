@@ -1,4 +1,4 @@
-# Emoji Interpreter
+# Goodbooks
 
 A web app which shows the list of books according to genre.
 
