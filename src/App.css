@@ -5,10 +5,12 @@
 }
 
 body {
-  width: 450px;
+  width: 100%;
+  max-width: 450px;
   margin: auto;
   text-align: left;
-  background-color: #efefef;
+  background-color: #b77a5d;
+  color: #fff;
 }
 
 .btnClass {
@@ -16,8 +18,11 @@ body {
   margin: 1.3rem 0.5rem;
   border-radius: 0.5rem;
   cursor: pointer;
-  background: rgb(229, 231, 235);
   border: 1px solid black;
+}
+
+.btnClass:hover {
+  background-color: #f5aa88;
 }
 
 .listClass {

@@ -5,11 +5,19 @@ var booksLibrary = {
   javascript: [
     {
       name: "Eloquent JavaScript",
-      rating: "4/5",
+      rating: "4.5/5",
     },
     {
       name: "You Don't Know JS",
       rating: "3.5/5",
+    },
+    {
+      name: "JavaScript and JQuery",
+      rating: "4/5",
+    },
+    {
+      name: "JavaScript: The Good Parts",
+      rating: "4.5/5",
     },
   ],
 
@@ -22,6 +30,14 @@ var booksLibrary = {
       name: "Harry Potter and the Sorcerer's Stone",
       rating: "4.5/5",
     },
+    {
+      name: "Adventures of Sherlock Holmes",
+      rating: "4/5",
+    },
+    {
+      name: "Great Expectations",
+      rating: "4.5/5",
+    },
   ],
   business: [
     {
@@ -31,6 +47,32 @@ var booksLibrary = {
     {
       name: "Loonshots",
       rating: "5/5",
+    },
+    {
+      name: "The Intelligent Investor",
+      rating: "3.8/5",
+    },
+    {
+      name: "How to Win Friends & Influence People",
+      rating: "4/5",
+    },
+  ],
+  travel: [
+    {
+      name: "On the Road,",
+      rating: "4/5",
+    },
+    {
+      name: "Unlikely Destinations: The LP Story",
+      rating: "3.8/5",
+    },
+    {
+      name: "The The Lost City of Z",
+      rating: "4.5/5",
+    },
+    {
+      name: "The Beach",
+      rating: "4/5",
     },
   ],
 };
