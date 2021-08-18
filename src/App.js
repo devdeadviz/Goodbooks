@@ -16,7 +16,7 @@ var booksLibrary = {
       rating: "4/5",
     },
     {
-      name: "JavaScript: The Good Parts",
+      name: "JavaScript The Good Parts",
       rating: "4.5/5",
     },
   ],
